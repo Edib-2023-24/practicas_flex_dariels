@@ -17,3 +17,17 @@
 /* Colores */
 
 /* ******************************** */
+header{
+  height: 80px;
+  background: rgb(217, 217, 217);
+  border-bottom: 2px solid gray;
+  
+  display: flex;
+
+}
+
+a{
+  text-decoration: none;
+  color: black;
+  font-size: 1.255em;
+}
